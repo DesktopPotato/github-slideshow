@@ -2,4 +2,4 @@
 layout: slide
 ---
 Thy text
-Use the left arrow to go back!
+"Never believe quotes on the internet - Abraham Lincoln"
